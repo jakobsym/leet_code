@@ -1,0 +1,18 @@
+-- LeetCode 14 Patterns --
+
+-> 	Sliding Window
+	Two Pointers or Iterators
+	Fast and Slow Pointers
+	Merge Intervals
+	Cyclic Sort
+	In-Place Reversal of Linked List
+	Tree BFS
+	Tree DFS
+	Two Heaps
+	Subsets
+	Modified Binary Search
+	Top K Elements
+	K-Way Merge
+	Topological Sort
+
+-> Recognizing pattern leads to O(n) solution (optimal solution)
